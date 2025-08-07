@@ -37,7 +37,7 @@ A browser-based physics simulation of organic plant growth. Sometimes the most i
 
 ## Beyond Coding Projects
 
-In the past year, I've been diving into cybersecurity through Capture The Flag (CTF) competitions. It's been a fun, and made me think more about security of my code.
+In the past year, I've been diving into cybersecurity through Capture The Flag (CTF) competitions. It's been fun, and made me think more about the security of my code.
 
 - **Finalist** @ Brain Hack 2025
 - **78th / 1667 Teams (Top 5%)** @ Down Under CTF 2025
