@@ -1,29 +1,43 @@
-## hello w o     r     l         d
+# Hello! 
 
-### Hello! I'm Yuxuan.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4F7&width=435&lines=I'm+Yuxuan+%3A))](https://git.io/typing-svg)
 
-I'm a Year 3 Computer Engineering student at NTU who enjoys building fun things that are hopefully useful sometimes. Currently, I'm particularly interested in simulating real-life behaviours using code, such as procedural generation or neural networks.
+I'm a Year 3 [Computer Engineering student at NTU](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-computer-engineering) who enjoys building fun things that are hopefully useful sometimes. My main experience lies in web development, but I hope my diverse projects reflect my interests and comfort with exploring different technologies.
 
----
+Currently, I'm particularly interested in simulating interesting behaviours using code, such as procedural generation, neural networks, or LLM.
 
-### A Few Things I've Built
-
-I've pinned my favorite projects below, but here are the direct links:
-
-- **[2W2Meet](https://github.com/YellowO2/2w2meet)** - A full-stack group event planner with real-time scheduling and Google Maps integration, built with Vue.js and Firebase.
-- **[AI Among Us](https://github.com/YellowO2/ai-among-us)** - A real-time multiplayer social deduction game built with Next.js where players hunt for the AI bots.
-- **[Interactive Plant Sim](https://github.com/YellowO2/janky-plant-sim)** - A browser-based physics simulation of a growing plant, powered by Matter.js.
+<a href="https://www.linkedin.com/in/huang-yuxuan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:huangyuxuan121122@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ---
 
-### Connect
+## Projects
 
-You can find me on **[LinkedIn](https://www.linkedin.com/in/huang-yuxuan/)**.
+### [NTU CCDS Orientation Website & Bot](https://github.com/YellowO2/TOP-2025-Website)
+**Leadership • Full-Stack Development**  
+Designed and led the tech team as Tech Lead to create a website + management system for NTU College of Computing Orientation 2025.
+
+### [Neural Network Creature Sim](https://github.com/YellowO2/NeuralNetworkSimulation)
+**Unity • Machine Learning • Simulation**  
+A simulation where creatures with neural network "brains" evolve over generations to navigate their environment and find food.
+
+### [2W2Meet](https://github.com/YellowO2/2w2meet)
+**Vue.js • Firebase • Real-time Systems**  
+A full-stack group event planner with real-time scheduling coordination and Google Maps integration.
+
+### [AI Among Us](https://github.com/YellowO2/ai-among-us)
+**Next.js • Gemini API • LLM**  
+A real-time multiplayer social deduction game where players try to identify AI bots among them.
+
+### [Interactive Plant Sim](https://github.com/YellowO2/janky-plant-sim)
+**Physics Simulation • Matter.js • Procedural Generation**  
+A browser-based physics simulation of organic plant growth. Sometimes the most interesting projects are the beautifully janky ones.
 
 ---
-<!-- 
-Feel free to add a personal touch here!
-Maybe something like:
 
-🌱 Currently exploring: [A new tech or topic, e.g., "Cloud deployment with AWS" or "3D rendering with Three.js"]
--->
+## Beyond Coding Projects
+
+In the past year, I've been diving into cybersecurity through Capture The Flag (CTF) competitions. It's been a fun, and made me think more about security of my code.
+
+- **Finalist** @ Brain Hack 2025
+- **78th / 1667 Teams (Top 5%)** @ Down Under CTF 2025
