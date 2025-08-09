@@ -14,7 +14,7 @@ Currently, I'm particularly interested in simulating interesting behaviours usin
 ## Projects
 
 ### [NTU CCDS Orientation Website & Bot](https://github.com/YellowO2/TOP-2025-Website)
-**Leadership • Full-Stack Development**  
+**Leadership • Full-Stack Development • Event Management**  
 Designed and led the tech team as Tech Lead to create a website + management system for NTU College of Computing Orientation 2025.
 
 ### [Neural Network Creature Sim](https://github.com/YellowO2/NeuralNetworkSimulation)
@@ -22,11 +22,11 @@ Designed and led the tech team as Tech Lead to create a website + management sys
 A simulation where creatures with neural network "brains" evolve over generations to navigate their environment and find food.
 
 ### [2W2Meet](https://github.com/YellowO2/2w2meet)
-**Vue.js • Firebase • Real-time Systems**  
+**Vue.js • Firebase • Event Scheduling**  
 A full-stack group event planner with real-time scheduling coordination and Google Maps integration.
 
 ### [AI Among Us](https://github.com/YellowO2/ai-among-us)
-**Next.js • Gemini API • LLM**  
+**Realtime Multiplayer • Gemini API • LLM**  
 A real-time multiplayer social deduction game where players try to identify AI bots among them.
 
 ### [Interactive Plant Sim](https://github.com/YellowO2/janky-plant-sim)
