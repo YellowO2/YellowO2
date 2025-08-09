@@ -14,7 +14,7 @@ Currently, I'm particularly interested in simulating interesting behaviours usin
 ## Projects
 
 ### [NTU CCDS Orientation Website & Bot](https://github.com/YellowO2/TOP-2025-Website)
-**Leadership • Full-Stack Development • Event Management**  
+**Leadership • Full-Stack Development • Management System**  
 Designed and led the tech team as Tech Lead to create a website + management system for NTU College of Computing Orientation 2025.
 
 ### [Neural Network Creature Sim](https://github.com/YellowO2/NeuralNetworkSimulation)
