@@ -31,7 +31,7 @@ A real-time multiplayer social deduction game where players try to identify AI b
 
 ### [Interactive Plant Sim](https://github.com/YellowO2/janky-plant-sim)
 **Physics Simulation • Matter.js • Procedural Generation**  
-A browser-based physics simulation of organic plant growth. Sometimes the most interesting projects are the beautifully janky ones.
+A browser-based physics simulation of plant growth.
 
 ---
 
