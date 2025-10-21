@@ -4,7 +4,7 @@
 
 I'm a Year 3 [Computer Engineering student at NTU](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-computer-engineering) who enjoys building fun things that are hopefully useful sometimes. My main experience lies in web development, but I hope my diverse projects reflect my interests and comfort with exploring different technologies.
 
-Currently, I'm particularly interested in simulating interesting behaviours using code, such as procedural generation, neural networks, or LLM.
+Currently, I'm particularly interested in potential applications of AI Agents.
 
 <a href="https://www.linkedin.com/in/huang-yuxuan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:huangyuxuan121122@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -16,6 +16,10 @@ Currently, I'm particularly interested in simulating interesting behaviours usin
 ### [NTU CCDS Orientation Website & Bot](https://github.com/YellowO2/TOP-2025-Website)
 **Leadership • Full-Stack Development • Management System**  
 Designed and led the tech team to create a website + management system for NTU College of Computing Orientation 2025.
+
+### [AI Task Agent](https://github.com/YellowO2/ai-task-agent)
+**AI Agent • Automation • LLM**  
+A personal productivity agent that automatically parses tasks from Gmail and manages them via a Telegram bot.
 
 ### [Neural Network Creature Sim](https://github.com/YellowO2/NeuralNetworkSimulation)
 **Unity • Machine Learning • Simulation**  
