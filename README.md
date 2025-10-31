@@ -2,9 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C4F7&width=435&lines=I'm+Yuxuan+%3AD)](https://git.io/typing-svg)
 
-I'm a Year 3 [Computer Engineering student at NTU](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-computer-engineering) who enjoys building fun things that are hopefully useful sometimes. My main experience lies in web development, but I hope my diverse projects reflect my interests and comfort with exploring different technologies.
+I'm a Year 3 [Computer Engineering student at NTU](https://www.ntu.edu.sg/education/undergraduate-programme/bachelor-of-engineering-in-computer-engineering) who enjoys building fun things that are hopefully useful sometimes. My main experience lies in web development/infrastructure, but I hope my diverse projects reflect my interests and comfort with exploring different technologies.
 
-Currently, I'm particularly interested in potential applications of AI Agents.
 
 <a href="https://www.linkedin.com/in/huang-yuxuan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:huangyuxuan121122@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
