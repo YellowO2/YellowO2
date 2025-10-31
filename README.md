@@ -12,9 +12,13 @@ I'm a Year 3 [Computer Engineering student at NTU](https://www.ntu.edu.sg/educat
 
 ## Projects
 
-### [NTU CCDS Orientation Website & Bot](https://github.com/YellowO2/TOP-2025-Website)
+### [NTU CCDS Orientation WebApp & Bot](https://github.com/YellowO2/TOP-2025-Website)
 **Leadership • Full-Stack Development • Management System**  
 Designed and led the tech team to create a website + management system for NTU College of Computing Orientation 2025.
+
+### [AWS Load-Balanced Web App (Terraform)](https://github.com/YellowO2/loadbalancer-webapp)
+**Terraform • AWS (EC2, ALB, Auto Scaling) • Docker • Flask**
+Deployed a Dockerised Flask web app with hostname metrics on AWS using Terraform. Configured an Application Load Balancer and an Auto Scaling Group for traffic distribution and high availability.
 
 ### [AI Task Agent](https://github.com/YellowO2/ai-task-agent)
 **AI Agent • Automation • LLM**  
